@@ -1,0 +1,5 @@
+{
+  "name": "AI Website Rebuilder",
+  "description": "Transform old website screenshots into modern, responsive, Tailwind-styled landing pages using Gemini Vision and Image generation.",
+  "requestFramePermissions": []
+}
